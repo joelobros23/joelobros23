@@ -1,28 +1,24 @@
 # .github/workflows/metrics.yml
 name: Metrics
 on:
-  # Schedule updates every 6 hours
   schedule: [{cron: "0 */6 * * *"}]
-  # Allows to run this workflow manually from the Actions tab
   workflow_dispatch:
-  # Also run on every push to the main branch
   push: {branches: ["main", "master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 👈 This is the line that grants write permission
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
           user: joelobros23
           template: classic
           base: repositories
-          config_timezone: America/New_York 
+          config_timezone: America/New_York
           
-          # Plugins
+          # 👇 Add this line
+          repositories_affiliations: owner
+          
           plugin_isocalendar: yes
