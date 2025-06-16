@@ -1,5 +1,5 @@
 <h2>Statistics</h2>
-<p align="center"><img align="center" height="165px" src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-stats.svg" /><img align="center" height="165px" src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-languages.svg" /></p>
+<p align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelobros23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelobros23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</p>
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" />
