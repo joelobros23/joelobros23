@@ -1,2 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=joelobros23)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=joelobros23&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-stats-lac-alpha.vercel.app/api?username=joelobros23&rust=45.5&javascript=30.2&python=15.3&others=9.0
