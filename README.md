@@ -6,4 +6,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-light.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake.svg" />
 </picture>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=joelobros23)](https://github.com/ryo-ma/github-profile-trophy)
